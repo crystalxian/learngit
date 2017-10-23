@@ -7,11 +7,11 @@
 #  Copyright(C): sensetime
 #       Version: 0.0.1
 #    CreateDate: 2017-10-23 11:35:37
-#    LastChange: 2017-10-23 11:47:43
+#    LastChange: 2017-10-23 11:50:12
 #          Desc: 
 #       History: 
 ##################################################
 Git is a dietributed version control sysytem.
 Git is  free software distributed under the GPL.
 Git has a mutable index called stage.
-
+Git tracks changes.
