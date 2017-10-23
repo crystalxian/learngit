@@ -7,10 +7,10 @@
 #  Copyright(C): sensetime
 #       Version: 0.0.1
 #    CreateDate: 2017-10-23 11:35:37
-#    LastChange: 2017-10-23 11:36:05
+#    LastChange: 2017-10-23 11:38:18
 #          Desc: 
 #       History: 
 ##################################################
-Git is a version control sysytem.
+Git is a dietributed version control sysytem.
 Git is  free software.
 
